@@ -1,7 +1,7 @@
 <h1 align="center">
-<img src="https://drive.google.com/uc?export=view&id=1Hzy58C2V9femT71kkl9wCB9D-Yru9_D6" alt="offline-first" width="100%" border="0">
+<img src="https://drive.google.com/uc?export=view&id=1NOdt4ur1TubALCwJY_ale1oP84ZNKFXc" alt="offline-first" width="100%" border="0">
 <br>
-Planner
+
 </h1>
 
 > Status from Project: <img src="https://drive.google.com/uc?export=view&id=1Tak2fjuusuwdzNI_rwhPqLHGVLVKNTm1" alt="" width="32" border="0" /> Under construction <img src="https://drive.google.com/uc?export=view&id=1Tak2fjuusuwdzNI_rwhPqLHGVLVKNTm1" alt="" width="32" border="0" />
@@ -35,7 +35,7 @@ Estas outras configurações, são de extrema importância, sem elas, a sua apli
 
 ## Demonstration
 
-<img src="https://drive.google.com/uc?export=view&id=1vrz02Q1gYuSR1Vq5X3fVFZSjdWJ7yjE8" alt="ignite-fleet" width="100%" border="0">
+<img src="https://drive.google.com/uc?export=view&id=122aHFsICpvYokn2OdwspF3Md2Zug0-hr" alt="ignite-fleet" width="100%" border="0">
 
 ## Install
 
@@ -46,7 +46,7 @@ git clone `git@github.com:humbertoromanojr/nlw_journey`
 Install Expo <br />
 <img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> `npm i -g expo-cli` <br />
 
-<img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> Go to `nlw_journey` folder <br />
+<img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> Go to `nlw_journey/mobile and backend` folders <br />
 
 Install node_modules <br />
 <img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> `npm i`
@@ -61,7 +61,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://opens
 ## Sources:
 
 - rocketseat.com.br
-- getemoji.com
+  - Github: `github.com/rocketseat-education/nlw-journey-react-native`
 - expo.dev
 
 ## Author
