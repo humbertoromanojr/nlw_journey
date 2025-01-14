@@ -24,6 +24,8 @@
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Expo](https://expo.dev/)
+- [Tailwindcss](https://tailwindcss.com/)
+  - [Nativewind](https://www.nativewind.dev/getting-started/expo-router)
 
 ## Important Settings
 
